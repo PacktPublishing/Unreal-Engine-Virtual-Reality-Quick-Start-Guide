@@ -1,0 +1,464 @@
+﻿Log file open, 12/01/18 12:47:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRQuickStart
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.293381
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.642s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UnrealEngine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.107s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.01-17.47.36:798][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.01-17.47.36:799][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.01-17.47.36:886][  0]LogHAL: Display: Platform has ~ 16 GB [17130463232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.01-17.47.36:894][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.01-17.47.36:897][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.01-17.47.36:964][  0]LogInit: Computer: DATASTORE-JESSI
+[2018.12.01-17.47.36:964][  0]LogInit: User: justi
+[2018.12.01-17.47.36:964][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.01-17.47.36:964][  0]LogInit: High frequency timer resolution =2.742184 MHz
+[2018.12.01-17.47.36:964][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.12.01-17.47.36:964][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.01-17.47.36:964][  0]LogMemory: Process Physical Memory: 100.55 MB used, 100.55 MB peak
+[2018.12.01-17.47.36:964][  0]LogMemory: Process Virtual Memory: 89.71 MB used, 89.71 MB peak
+[2018.12.01-17.47.36:964][  0]LogMemory: Physical Memory: 8374.17 MB used,  7962.71 MB free, 16336.88 MB total
+[2018.12.01-17.47.36:964][  0]LogMemory: Virtual Memory: 4629.40 MB used,  7962.71 MB free, 134217728.00 MB total
+[2018.12.01-17.47.39:144][  0]LogInit: Using OS detected language (en-US).
+[2018.12.01-17.47.39:144][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.01-17.47.39:217][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.01-17.47.40:076][  0]LogStreaming: Display: Took  0.867s to InitEngineTextLocalization.
+[2018.12.01-17.47.40:104][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.01-17.47.41:254][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.01-17.47.41:254][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.01-17.47.47:224][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.01-17.47.47:225][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.01-17.47.47:400][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.12.01-17.47.47:400][  0]LogD3D11RHI:       6052/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.01-17.47.47:403][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.01-17.47.47:403][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.01-17.47.47:403][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.01-17.47.47:528][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.01-17.47.47:528][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.01-17.47.47:535][  0]LogWindows: EnumDisplayDevices:
+[2018.12.01-17.47.47:535][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.12.01-17.47.47:535][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.01-17.47.47:536][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.01-17.47.47:536][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.01-17.47.47:536][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.01-17.47.47:536][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.12.01-17.47.47:537][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.12.01-17.47.47:537][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.12.01-17.47.47:537][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.12.01-17.47.47:639][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.01-17.47.48:160][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.01-17.47.48:433][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../Unreal Projects/VRQuickStart/Intermediate/Shaders/WorkingDirectory/2360/).
+[2018.12.01-17.47.48:433][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/justi/AppData/Local/Temp/UnrealShaderWorkingDir/F40AECCE4CF800ED07868E8D40707EC6/'.
+[2018.12.01-17.47.50:516][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.01-17.47.50:573][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.01-17.47.50:617][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.01-17.47.50:671][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.01-17.47.50:781][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.01-17.47.50:868][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.01-17.47.50:907][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.01-17.47.50:953][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.01-17.47.51:012][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.47.51:401][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.01-17.47.51:911][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.01-17.47.51:911][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.01-17.47.51:989][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.01-17.47.51:989][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.01-17.47.52:147][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.01-17.47.52:178][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.01-17.47.52:211][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.01-17.47.52:342][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.01-17.47.52:387][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.01-17.47.52:387][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.01-17.47.54:233][  0]LogXGEController: Cleaning working directory: C:/Users/justi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.01-17.47.54:233][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.01-17.47.54:233][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.01-17.47.54:233][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.01-17.48.01:247][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.01-17.48.01:561][  0]LogDerivedDataCache: Loaded boot cache 0.31s 72MB C:/Users/justi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.01-17.48.01:561][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/justi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.01-17.48.01:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/VRQuickStart/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.01-17.48.01:562][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.01-17.48.01:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/VRQuickStart/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.01-17.48.01:562][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.01-17.48.01:741][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.01-17.48.01:755][  0]LogDerivedDataCache: Using Local data cache path C:/Users/justi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.01-17.48.01:755][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.01-17.48.01:755][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.01-17.48.01:988][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.01-17.48.02:041][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.01-17.48.02:135][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.01-17.48.04:383][  0]LogAssetRegistry: FAssetRegistry took 0.0381 seconds to start up
+[2018.12.01-17.48.09:109][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.01-17.48.12:610][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.01-17.48.12:964][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.01-17.48.12:984][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.01-17.48.13:011][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.01-17.48.13:011][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.01-17.48.13:509][  0]LogNetVersion: VRQuickStart 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1540982849)
+[2018.12.01-17.48.20:716][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.228418 seconds
+[2018.12.01-17.48.20:763][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.01-17.48.20:763][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.01-17.48.20:763][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.01-17.48.57:597][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.01-17.48.57:672][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.01-17.48.59:467][  0]SourceControl: Source control is disabled
+[2018.12.01-17.48.59:467][  0]SourceControl: Source control is disabled
+[2018.12.01-17.48.59:570][  0]SourceControl: Source control is disabled
+[2018.12.01-17.48.59:591][  0]SourceControl: Source control is disabled
+[2018.12.01-17.49.01:743][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.01-17.49.02:080][  0]LogOcInput: OculusInput pre-init called
+[2018.12.01-17.49.02:965][  0]LogEngine: Initializing Engine...
+[2018.12.01-17.49.03:026][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.01-17.49.03:102][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.12.01-17.49.03:102][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.01-17.49.03:103][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.12.01-17.49.03:104][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.01-17.49.04:394][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.01-17.49.05:014][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.01-17.49.05:232][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.01-17.49.05:357][  0]LogInit: FAudioDevice initialized.
+[2018.12.01-17.49.05:357][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.01-17.49.05:969][  0]LogDerivedDataCache: Saved boot cache 0.61s 72MB C:/Users/justi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.01-17.49.05:970][  0]LogInit: Texture streaming: Enabled
+[2018.12.01-17.49.06:254][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.01-17.49.06:416][  0]LogInit: Transaction tracking system initialized
+[2018.12.01-17.49.07:423][  0]BlueprintLog: New page: Editor Load
+[2018.12.01-17.49.10:848][  0]LocalizationService: Localization service is disabled
+[2018.12.01-17.49.15:983][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/VRQuickStart/Content/' took 0.02s
+[2018.12.01-17.49.15:983][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.01-17.49.16:027][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.01-17.49.16:036][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.01-17.49.16:036][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.01-17.49.16:036][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.01-17.49.16:036][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.01-17.49.16:036][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.01-17.49.20:952][  0]SourceControl: Source control is disabled
+[2018.12.01-17.49.20:977][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/VRQuickStart/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.01-17.49.20:987][  0]LightingResults: New page: Lighting Build
+[2018.12.01-17.49.21:174][  0]MapCheck: New page: Map Check
+[2018.12.01-17.49.21:174][  0]LightingResults: New page: Lighting Build
+[2018.12.01-17.49.25:192][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.01-17.49.27:740][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.01-17.49.28:010][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.01-17.49.28:300][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 289.739ms to complete.
+[2018.12.01-17.49.28:300][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 7.337
+[2018.12.01-17.49.30:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-17.49.30:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-17.49.30:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-17.49.30:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-17.49.30:538][  0]LogCollectionManager: Loaded 0 collections in 0.001739 seconds
+[2018.12.01-17.49.30:910][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/VRQuickStart/Saved/Collections/' took 0.01s
+[2018.12.01-17.49.30:910][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/VRQuickStart/Content/Developers/justi/Collections/' took 0.01s
+[2018.12.01-17.49.30:910][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/VRQuickStart/Content/Collections/' took 0.01s
+[2018.12.01-17.49.30:910][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.01-17.49.30:966][  0]LogContentBrowser: Native class hierarchy populated in 0.0369 seconds. Added 2572 classes and 603 folders.
+[2018.12.01-17.49.31:090][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.01-17.49.33:784][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.01-17.49.33:987][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.01-17.49.34:144][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2018.12.01-17.49.35:751][  0]LogSlate: Took 0.016120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.01-17.49.35:817][  0]LogSlate: Took 0.041712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.01-17.49.35:888][  0]LogSlate: Took 0.011870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.01-17.49.36:429][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2018.12.01-17.49.37:624][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.01-17.49.37:624][  0]LogLoad: (Engine Initialization) Total time: 160.74 seconds
+[2018.12.01-17.49.37:624][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.01-17.49.37:861][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.01-17.49.38:034][  0]LogSlate: Took 0.021072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.01-17.49.38:478][  3]LogAssetRegistry: Asset discovery search completed in 94.1182 seconds
+[2018.12.01-17.49.38:481][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.01-17.49.38:481][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2018.12.01-17.49.39:121][  5]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.01-17.51.01:236][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-17.51.01:426][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Server17/Blueprints/Server17PlayerPawn.Server17PlayerPawn
+[2018.12.01-17.51.02:836][359]LogClass: Warning: Enum '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.12.01-17.51.03:190][359]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.12.01-17.51.05:980][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Server17/Blueprints/ButtonInteractionInterface.ButtonInteractionInterface
+[2018.12.01-17.51.06:263][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Server17/Blueprints/InteractionComponent.InteractionComponent
+[2018.12.01-17.51.06:694][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Server17/Blueprints/PuzzleCubeTest.PuzzleCubeTest
+[2018.12.01-17.51.07:018][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Server17/Blueprints/InteractButton.InteractButton
+[2018.12.01-17.51.07:339][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Server17/Blueprints/InteractCube.InteractCube
+[2018.12.01-17.51.07:683][359]LogLinker: Warning: Can't resolve asset name
+[2018.12.01-17.51.08:122][359]LogSlate: Took 0.063378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.01-17.51.09:415][360]LogSlate: Took 0.024311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.01-17.51.16:902][689]LogSlate: Window 'InteractButton' being destroyed
+[2018.12.01-17.59.40:183][472]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.198
+[2018.12.01-17.59.40:262][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Server17/Blueprints/Server17PlayerPawn] ([1] browsable assets)...
+[2018.12.01-17.59.40:325][472]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Server17/Blueprints/Server17PlayerPawn.Server17PlayerPawn]
+[2018.12.01-17.59.40:325][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Server17/Blueprints/Server17PlayerPawn]
+[2018.12.01-17.59.43:350][472]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/Server17PlayerPawn_Auto12054F28649CCEDFC8377F2B9D28DFEC0.tmp' to '../../../../../Unreal Projects/VRQuickStart/Saved/Autosaves/Game/Server17/Blueprints/Server17PlayerPawn_Auto1.uasset'
+[2018.12.01-17.59.43:422][472]LogFileHelpers: Auto-saving content packages took 3.238
+[2018.12.01-18.09.43:681][290]LogGarbage: Warning: 6.903986 ms for acquiring GC lock
+[2018.12.01-18.09.43:730][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.056
+[2018.12.01-18.09.43:744][290]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Server17/Blueprints/InteractionComponent] ([1] browsable assets)...
+[2018.12.01-18.09.43:759][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Server17/Blueprints/InteractionComponent]
+[2018.12.01-18.09.45:849][290]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/InteractionComponent_Auto2A8475D114634FEDCB56C48B065569102.tmp' to '../../../../../Unreal Projects/VRQuickStart/Saved/Autosaves/Game/Server17/Blueprints/InteractionComponent_Auto2.uasset'
+[2018.12.01-18.09.45:866][290]LogFileHelpers: Auto-saving content packages took 2.134
+[2018.12.01-18.29.39:609][345]LogSlate: Window 'Save Content' being destroyed
+[2018.12.01-18.29.39:656][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Server17/Blueprints/InteractionComponent" FILE="../../../../../Unreal Projects/VRQuickStart/Content/Server17/Blueprints/InteractionComponent.uasset" SILENT=true
+[2018.12.01-18.29.39:876][345]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/InteractionComponent0F5F1E2847158596B550B39B417A535D.tmp' to '../../../../../Unreal Projects/VRQuickStart/Content/Server17/Blueprints/InteractionComponent.uasset'
+[2018.12.01-18.29.39:887][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Server17/Blueprints/Server17PlayerPawn" FILE="../../../../../Unreal Projects/VRQuickStart/Content/Server17/Blueprints/Server17PlayerPawn.uasset" SILENT=true
+[2018.12.01-18.29.40:004][345]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/Server17PlayerPawn8E9E1874459CF226779531AE0A17CCF1.tmp' to '../../../../../Unreal Projects/VRQuickStart/Content/Server17/Blueprints/Server17PlayerPawn.uasset'
+[2018.12.01-18.36.09:496][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-18.36.17:284][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.37.38:816][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.035
+[2018.12.01-18.37.38:819][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Server17/Blueprints/PuzzleCubeTest] ([1] browsable assets)...
+[2018.12.01-18.37.38:836][ 20]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Server17/Blueprints/PuzzleCubeTest.PuzzleCubeTest]
+[2018.12.01-18.37.38:836][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/Server17/Blueprints/PuzzleCubeTest]
+[2018.12.01-18.37.39:002][ 20]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/PuzzleCubeTest_Auto32739FAD64A70B21FE14D2BB3B0DE8072.tmp' to '../../../../../Unreal Projects/VRQuickStart/Saved/Autosaves/Game/Server17/Blueprints/PuzzleCubeTest_Auto3.uasset'
+[2018.12.01-18.37.39:027][ 20]LogFileHelpers: Auto-saving content packages took 0.210
+[2018.12.01-18.37.45:474][112]LogRenderer: Reallocating scene render targets to support 1208x712 Format 26 NumSamples 1 (Frame:1).
+[2018.12.01-18.38.34:860][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.41.31:069][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.42.05:507][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.45.58:168][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.46.16:404][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.47.03:832][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.47.26:982][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.48.03:134][208]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/MotionControllerMap_Auto4F42E45D94A48DCDFF121F3A816AB57BB.tmp' to '../../../../../Unreal Projects/VRQuickStart/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap'
+[2018.12.01-18.48.03:213][208]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 2.104
+[2018.12.01-18.48.03:213][208]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.104
+[2018.12.01-18.48.03:222][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Server17/Blueprints/PuzzleCubeTest] ([1] browsable assets)...
+[2018.12.01-18.48.03:242][208]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Server17/Blueprints/PuzzleCubeTest.PuzzleCubeTest]
+[2018.12.01-18.48.03:243][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Server17/Blueprints/PuzzleCubeTest]
+[2018.12.01-18.48.03:379][208]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/PuzzleCubeTest_Auto4C6C7BB074C0A0BFF167B70AAFCD91E4B.tmp' to '../../../../../Unreal Projects/VRQuickStart/Saved/Autosaves/Game/Server17/Blueprints/PuzzleCubeTest_Auto4.uasset'
+[2018.12.01-18.48.03:407][208]LogFileHelpers: Auto-saving content packages took 0.187
+[2018.12.01-18.48.34:574][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-18.48.45:612][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.52.16:364][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.52.45:003][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.54.39:388][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.56.15:999][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.56.52:828][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.58.04:359][699]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/MotionControllerMap_Auto574FC41F84C6CF1800B9385BD3207B200.tmp' to '../../../../../Unreal Projects/VRQuickStart/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto5.umap'
+[2018.12.01-18.58.04:365][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.745
+[2018.12.01-18.58.04:365][699]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.745
+[2018.12.01-18.58.04:372][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Server17/Blueprints/PuzzleCubeTest] ([1] browsable assets)...
+[2018.12.01-18.58.04:389][699]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Server17/Blueprints/PuzzleCubeTest.PuzzleCubeTest]
+[2018.12.01-18.58.04:389][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Server17/Blueprints/PuzzleCubeTest]
+[2018.12.01-18.58.04:554][699]LogSavePackage: Moving '../../../../../Unreal Projects/VRQuickStart/Saved/PuzzleCubeTest_Auto56BBA920D463C7537344FA880CB8A22F3.tmp' to '../../../../../Unreal Projects/VRQuickStart/Saved/Autosaves/Game/Server17/Blueprints/PuzzleCubeTest_Auto5.uasset'
+[2018.12.01-18.58.04:558][699]LogFileHelpers: Auto-saving content packages took 0.188
+[2018.12.01-19.00.00:190][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-19.01.39:271][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-19.02.03:731][509]LogEditorTransaction: Undo Set Scale
+[2018.12.01-19.02.07:997][509]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.058 s
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: 
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: 
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: Stack: 
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00000205e54371f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00000205e5170c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00000205e518b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff8688deedf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff868884514 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff8622841a9 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff862284ee5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff862231a51 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b6ed0d2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b6b3f79 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b756a2e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b5693b0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b501444 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff8817c0014 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:997][509]LogOutputDevice: Error: [Callstack] 0x00007ff881438d70 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8813cf869 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8817c4833 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8817ab550 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff88175b524 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8817b0f0a UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff88136b41b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8813f843e UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff881445d9d UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff868884dc6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8688b01fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff868896535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff868902dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff868949b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8688dc81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8813d05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b5024df UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b54437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff869133a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff869121a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b4c70ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b54606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff88b539846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8a1e3ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8a1e30270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8a1e3f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8a1e2c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8c0136d41 USER32.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8c0136713 USER32.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8a1e40646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff7a0cf54e5 UE4Editor.exe!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff7a0d05b3c UE4Editor.exe!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff7a0d05bba UE4Editor.exe!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff7a0d13dac UE4Editor.exe!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff7a0d15aaa UE4Editor.exe!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8c07b3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: [Callstack] 0x00007ff8c28e1471 ntdll.dll!UnknownFunction []
+[2018.12.01-19.02.07:998][509]LogOutputDevice: Error: 
+[2018.12.01-19.02.08:025][509]LogStats:                SubmitErrorReport -  0.017 s
