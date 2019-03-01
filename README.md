@@ -10,12 +10,12 @@ This is the code repository for [Unreal Engine Virtual Reality Quick Start Guide
 With the ability to put players directly in the game, virtual reality gives users the chance to experience digital worlds directly. Nevertheless, many designers are unsure where to start when working with this amazing technology.
 
 This book covers the following exciting features:
-Understand how to get started with VR development in Unreal Engine 4 
-Design and create interaction and locomotion systems from scratch 
-Plan and program a sample game for VR 
-Understand how VR affects user experience and user interfaces 
-Discuss what is needed to create optimized art for VR 
-Test your game with users and prepare for distribution 
+* Understand how to get started with VR development in Unreal Engine 4 
+* Design and create interaction and locomotion systems from scratch 
+* Plan and program a sample game for VR 
+* Understand how VR affects user experience and user interfaces 
+* Discuss what is needed to create optimized art for VR 
+* Test your game with users and prepare for distribution 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789617405) today!
 
